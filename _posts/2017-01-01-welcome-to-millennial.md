@@ -10,8 +10,6 @@ image: cuba-1.jpg
 
 ## Welcome!
 
-This text should be deleted.
+Apologies, this website is under construction. I plan to make it feature both artistic and technical projects as well as some blogs about how art and engineering is very much related! See you soon, thanks for your patience.
 
-![Alt text](/assets/images/cuba-1.jpg)
-![Alt text](/assets/images/cuba-1.jpg)
-![Alt text](/assets/images/cuba-1.jpg)
+[Trying to insert a sample image here...](/assets/img/arctic-1.jpg)
